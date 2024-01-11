@@ -1,0 +1,6 @@
+Video player
+-------------
+
+*)for path setting we use react-router-dom.
+*)it is a library that must install from browser.
+ *) inorder to give routing the entire application should be placed inside BrowserRouter tag
